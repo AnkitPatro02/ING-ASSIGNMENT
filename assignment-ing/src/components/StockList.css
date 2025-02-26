@@ -1,0 +1,33 @@
+.stocks {
+    font-size: 18px;
+    width: 100%;
+}
+
+.header td {
+    background-color: #04AA6D;
+    padding-top: 20px;
+    padding-bottom: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.stocks th,
+td {
+    padding: 25px;
+    text-align: center;
+    border: 1px solid #9AA6B2;
+}
+
+.stocks tr:nth-child(even) {
+    background-color: #D9EAFD;
+}
+
+.stocks tr {
+    background-color: #BCCCDC;
+}
+
+.stocks tr:hover {
+    background-color: #9AA6B2;
+}

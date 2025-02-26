@@ -1,0 +1,956 @@
+{
+    "instruments": [
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 16.915,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 17.319,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 17.39,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0011540547",
+            "lowPrice": {
+                "value": 16.98,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "ABN AMRO Group",
+            "openPrice": {
+                "value": 17.065,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 2.387,
+            "symbol": "ABN",
+            "time": "2025-02-18T13:47:14Z",
+            "uid": "7b2273796d626f6c223a2241424e227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 1841.2,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 1853.73,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 1861.667,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0012969182",
+            "lowPrice": {
+                "value": 1827.613,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "Adyen",
+            "openPrice": {
+                "value": 1850,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 0.681,
+            "symbol": "ADY",
+            "time": "2025-02-18T13:47:14Z",
+            "uid": "7b2273796d626f6c223a22414459227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 6.35,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 6.368,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 6.374,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "BMG0112X1056",
+            "lowPrice": {
+                "value": 6.302,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "Aegon",
+            "openPrice": {
+                "value": 6.352,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 0.283,
+            "symbol": "AGN",
+            "time": "2025-02-18T13:39:25Z",
+            "uid": "7b2273796d626f6c223a2241474e227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 34.3,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 34.2,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 34.31,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0011794037",
+            "lowPrice": {
+                "value": 33.88,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "Ahold Delhaize",
+            "openPrice": {
+                "value": 34.23,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": -0.292,
+            "symbol": "AH",
+            "time": "2025-02-18T13:47:12Z",
+            "uid": "7b2273796d626f6c223a224148227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 59.84,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 59.86,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 59.964,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0013267909",
+            "lowPrice": {
+                "value": 59.12,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "Akzo Nobel",
+            "openPrice": {
+                "value": 59.56,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 0.033,
+            "symbol": "AKZ",
+            "time": "2025-02-18T13:47:08Z",
+            "uid": "7b2273796d626f6c223a22414b5a227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 27.87,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 27.881,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 27.95,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "LU1598757687",
+            "lowPrice": {
+                "value": 27.68,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "ArcelorMittal",
+            "openPrice": {
+                "value": 27.91,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 0.04,
+            "symbol": "MT",
+            "time": "2025-02-18T13:47:11Z",
+            "uid": "7b2273796d626f6c223a224d54227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 577.4,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 580.4,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 581.2,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0000334118",
+            "lowPrice": {
+                "value": 569.8,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "ASM International -NL-",
+            "openPrice": {
+                "value": 577.2,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 0.52,
+            "symbol": "ASM",
+            "time": "2025-02-18T13:47:14Z",
+            "uid": "7b2273796d626f6c223a2241534d227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 727.8,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 729.8,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 730.7,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0010273215",
+            "lowPrice": {
+                "value": 719.4,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "ASML Holding",
+            "openPrice": {
+                "value": 727.9,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 0.275,
+            "symbol": "ASL",
+            "time": "2025-02-18T13:47:14Z",
+            "uid": "7b2273796d626f6c223a2241534c227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 48.28,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 48.55,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 48.58,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0011872643",
+            "lowPrice": {
+                "value": 48.051,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "ASR Nederland",
+            "openPrice": {
+                "value": 48.5,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 0.559,
+            "symbol": "ASR",
+            "time": "2025-02-18T13:47:10Z",
+            "uid": "7b2273796d626f6c223a22415352227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 119.05,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 119.1,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 119.4,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0012866412",
+            "lowPrice": {
+                "value": 116.5,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "BE Semiconductor Industries",
+            "openPrice": {
+                "value": 119.1,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 0.042,
+            "symbol": "BES",
+            "time": "2025-02-18T13:38:56Z",
+            "uid": "7b2273796d626f6c223a22424553227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 106.05,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 105.9,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 106.1,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 130,
+            "isin": "CH1216478797",
+            "lowPrice": {
+                "value": 104.65,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "DSM Firmenich",
+            "openPrice": {
+                "value": 105.55,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": -0.141,
+            "symbol": "CH1216478797",
+            "time": "2025-02-18T13:47:05Z",
+            "uid": "7b2273796d626f6c223a22434831323136343738373937227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 96.45,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 96.65,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Euronext Amsterdam",
+            "fundCode": null,
+            "highPrice": {
+                "value": 96.95,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0012059018",
+            "lowPrice": {
+                "value": 96.2,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "EXOR",
+            "openPrice": {
+                "value": 96.45,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 0.207,
+            "symbol": "EXR",
+            "time": "2025-02-18T13:32:05.646Z",
+            "uid": "7b2273796d626f6c223a22455852227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 79.06,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 78.42,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 78.911,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0000009165",
+            "lowPrice": {
+                "value": 78.192,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "Heineken",
+            "openPrice": {
+                "value": 78.86,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": -0.81,
+            "symbol": "HEI",
+            "time": "2025-02-18T13:47:14Z",
+            "uid": "7b2273796d626f6c223a22484549227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 150.55,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 150.75,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 151.05,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0010801007",
+            "lowPrice": {
+                "value": 149.65,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "IMCD",
+            "openPrice": {
+                "value": 150.702,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 0.133,
+            "symbol": "IMD",
+            "time": "2025-02-18T13:47:14Z",
+            "uid": "7b2273796d626f6c223a22494d44227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 16.386,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 16.612,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 16.648,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0011821202",
+            "lowPrice": {
+                "value": 16.426,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "ING Groep",
+            "openPrice": {
+                "value": 16.446,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 1.379,
+            "symbol": "ING",
+            "time": "2025-02-18T13:47:14Z",
+            "uid": "7b2273796d626f6c223a22494e47227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 3.466,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 3.474,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 3.482,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0000009082",
+            "lowPrice": {
+                "value": 3.446,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "KPN",
+            "openPrice": {
+                "value": 3.468,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 0.231,
+            "symbol": "KPN",
+            "time": "2025-02-18T13:47:14Z",
+            "uid": "7b2273796d626f6c223a224b504e227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 45,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 45.21,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 45.31,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0010773842",
+            "lowPrice": {
+                "value": 44.97,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "NN Group",
+            "openPrice": {
+                "value": 45.16,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 0.467,
+            "symbol": "NN",
+            "time": "2025-02-18T13:47:10Z",
+            "uid": "7b2273796d626f6c223a224e4e227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 27,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 27.24,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 27.28,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0000009538",
+            "lowPrice": {
+                "value": 26.88,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "Philips",
+            "openPrice": {
+                "value": 27,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 0.889,
+            "symbol": "PHI",
+            "time": "2025-02-18T13:38:23Z",
+            "uid": "7b2273796d626f6c223a22504849227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 44.495,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 45.585,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 45.645,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0013654783",
+            "lowPrice": {
+                "value": 44.907,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "Prosus",
+            "openPrice": {
+                "value": 45,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 2.45,
+            "symbol": "PRX",
+            "time": "2025-02-18T13:47:13Z",
+            "uid": "7b2273796d626f6c223a22505258227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 38.4,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 38.57,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 38.66,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0000379121",
+            "lowPrice": {
+                "value": 38.02,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "Randstad",
+            "openPrice": {
+                "value": 38.5,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 0.443,
+            "symbol": "RND",
+            "time": "2025-02-18T13:47:10Z",
+            "uid": "7b2273796d626f6c223a22524e44227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 48.68,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 48.94,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Euronext Amsterdam",
+            "fundCode": null,
+            "highPrice": {
+                "value": 49.02,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "GB00B2B0DG97",
+            "lowPrice": {
+                "value": 48.68,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "RELX",
+            "openPrice": {
+                "value": 48.8,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 0.534,
+            "symbol": "RELX",
+            "time": "2025-02-18T13:32:09.1Z",
+            "uid": "7b2273796d626f6c223a2252454c58227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 32.45,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 32.435,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 32.58,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "GB00BP6MXD84",
+            "lowPrice": {
+                "value": 32.38,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "Shell",
+            "openPrice": {
+                "value": 32.38,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": -0.046,
+            "symbol": "RD",
+            "time": "2025-02-18T13:47:13Z",
+            "uid": "7b2273796d626f6c223a225244227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 52.74,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 52.26,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 52.903,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "GB00B10RZP78",
+            "lowPrice": {
+                "value": 52.1,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "Unilever -EUR-",
+            "openPrice": {
+                "value": 52.903,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": -0.91,
+            "symbol": "UN",
+            "time": "2025-02-18T13:47:14Z",
+            "uid": "7b2273796d626f6c223a22554e227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 28.73,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 29.12,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 29.12,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0015000IY2",
+            "lowPrice": {
+                "value": 28.623,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "Universal Music Group",
+            "openPrice": {
+                "value": 28.68,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 1.357,
+            "symbol": "UMG",
+            "time": "2025-02-18T13:47:14Z",
+            "uid": "7b2273796d626f6c223a22554d47227d"
+        },
+        {
+            "category": "Aandelen",
+            "closePrice": {
+                "value": 178.3,
+                "unit": "EUR",
+                "percent": false
+            },
+            "currency": "EUR",
+            "currentPrice": {
+                "value": 179.205,
+                "unit": "EUR",
+                "percent": false
+            },
+            "exchange": "Equiduct Netherlands",
+            "fundCode": null,
+            "highPrice": {
+                "value": 179.318,
+                "unit": "EUR",
+                "percent": false
+            },
+            "instrumentTypeNumber": 100,
+            "isin": "NL0000395903",
+            "lowPrice": {
+                "value": 178,
+                "unit": "EUR",
+                "percent": false
+            },
+            "name": "Wolters Kluwer",
+            "openPrice": {
+                "value": 178.501,
+                "unit": "EUR",
+                "percent": false
+            },
+            "priceMutation": 0.507,
+            "symbol": "WKL",
+            "time": "2025-02-18T13:47:12Z",
+            "uid": "7b2273796d626f6c223a22574b4c227d"
+        }
+    ],
+    "name": "AEX",
+    "uid": "AEX"
+}
