@@ -99,10 +99,7 @@ function StockList() {
                         ? "lightgreen"
                         : priceChange < 0
                         ? "lightcoral"
-                        : "",
-                    color: "black",
-                    textAlign: "center",
-                    transition: "background-color 0.5s ease-in-out",
+                        : ""
                   }}
                 >
                   {currentPrice}
