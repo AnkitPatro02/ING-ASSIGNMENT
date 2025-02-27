@@ -2,7 +2,7 @@ import "./StockDetails.css";
 import { useState, useEffect } from "react";
 import { useParams, useLocation, useNavigate } from "react-router-dom";
 
-// const API_URL = "http://localhost:4000/data"; // Ensure this is your backend API
+// const API_URL = "http://localhost:4000/data"; 
 
 const StockDetails = () => {
   const { isin } = useParams();
