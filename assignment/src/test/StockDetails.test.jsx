@@ -44,7 +44,7 @@ describe("StockDetails Component", () => {
     delete global.fetch;
   });
 
-  test("renders loading state when stock data is not available", () => {
+  test("should render loading state when stock data is not available", () => {
     mockUseParams.mockReturnValue({ isin: "12345" });
     mockUseLocation.mockReturnValue({ state: null });
 
@@ -57,7 +57,7 @@ describe("StockDetails Component", () => {
     expect(screen.getByText("Loading stock details...")).toBeInTheDocument();
   });
 
-  test("renders stock details correctly when data is available in location state", async () => {
+  test("should render stock details correctly when data is available in location state", async () => {
     const mockStock = {
       name: "Test Stock",
       symbol: "TSTK",
@@ -87,7 +87,7 @@ describe("StockDetails Component", () => {
     expect(screen.getByText(/Price Mutation:/)).toHaveTextContent("1.50");
   });
 
-  test("fetches stock details when location state is null", async () => {
+  test("should fetch stock details when location state is null", async () => {
     mockUseParams.mockReturnValue({ isin: "12345" });
     mockUseLocation.mockReturnValue({ state: null });
     global.fetch = jest.fn(() =>
@@ -112,18 +112,16 @@ describe("StockDetails Component", () => {
           }),
       })
     );
-
     render(
       <BrowserRouter>
         <StockDetails />
       </BrowserRouter>
     );
-
     await waitFor(() => expect(fetch).toHaveBeenCalledTimes(1));
     expect(screen.getByText(/Stock Name:/)).toHaveTextContent("Test Stock");
   });
 
-  test("Back button is present", async () => {
+  test("if back button is present", async () => {
     render(
       <BrowserRouter>
         <StockDetails />
@@ -133,5 +131,5 @@ describe("StockDetails Component", () => {
       screen.getByRole("button", { name: /back/i })
     );
     expect(backButton).toBeInTheDocument();
-  }, 3000);
+  });
 });
