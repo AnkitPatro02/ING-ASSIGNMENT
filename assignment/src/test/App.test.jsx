@@ -11,7 +11,7 @@ jest.mock("../components/StockDetails", () => () => (
 ));
 
 describe("App Component", () => {
-  test("renders heading and default StockList component", () => {
+  test("should render heading and default StockList component", () => {
     render(<App />);
 
     expect(
