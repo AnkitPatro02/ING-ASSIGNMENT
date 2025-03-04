@@ -13,7 +13,7 @@ const mockStockData = {
   instruments: [
     {
       isin: "12345",
-      name: "Test Stock 📈",
+      name: "Test Stock",
       currentPrice: { value: 105 },
       closePrice: { value: 98 },
       openPrice: { value: 95 },
@@ -45,7 +45,7 @@ afterEach(() => {
 });
 
 describe("StockList Component", () => {
-  test("renders loading state initially", () => {
+  test("should render loading state initially", () => {
     render(
       <BrowserRouter>
         <StockList />
@@ -55,7 +55,7 @@ describe("StockList Component", () => {
     expect(screen.getByText(/Loading data/i)).toBeInTheDocument();
   });
 
-  test("displays an error message if the fetch fails", async () => {
+  test("should display an error message if the fetch fails", async () => {
     global.fetch = jest.fn(() => Promise.reject(new Error("Fetch error")));
 
     render(
@@ -69,7 +69,7 @@ describe("StockList Component", () => {
     );
   });
 
-  test("calculates and displays previousPrice and priceChange correctly", async () => {
+  test("should calculate and display previousPrice and priceChange correctly", async () => {
     render(
       <BrowserRouter>
         <StockList />
@@ -83,14 +83,14 @@ describe("StockList Component", () => {
     const rows = screen.getAllByRole("row");
     expect(rows.length).toBe(3);
     const firstRow = rows[1];
-    expect(within(firstRow).getByText("Test Stock 📈")).toBeInTheDocument();
+    expect(within(firstRow).getByText("Test Stock")).toBeInTheDocument();
     const priceCells = screen.getAllByText("105");
     expect(priceCells.length).toBeGreaterThanOrEqual(2);
     expect(within(firstRow).getByText("98")).toBeInTheDocument();
     expect(within(firstRow).getByText("95")).toBeInTheDocument();
   });
 
-  test("handles HTTP error response", async () => {
+  test("should handle HTTP error response", async () => {
     fetch.mockResolvedValueOnce({
       ok: false,
       status: 500,
@@ -104,7 +104,7 @@ describe("StockList Component", () => {
     );
   });
 
-  test("handles invalid data format", async () => {
+  test("should handle invalid data format", async () => {
     fetch.mockResolvedValueOnce({
       ok: true,
       json: async () => ({}),
