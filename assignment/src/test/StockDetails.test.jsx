@@ -121,7 +121,7 @@ describe("StockDetails Component", () => {
     expect(screen.getByText(/Stock Name:/)).toHaveTextContent("Test Stock");
   });
 
-  test("if back button is present", async () => {
+  test("should check if back button is present", async () => {
     render(
       <BrowserRouter>
         <StockDetails />
